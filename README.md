@@ -8,7 +8,7 @@ https://github.com/rolling-scopes-school/tasks/blob/master/tasks/webdev-en.md
 _______________________________________________________________________________________
 
 Deploy:
-https://simzim.github.io/webdev-website/
+https://simzim.github.io/web-dev_web-page/
 _______________________________________________________________________________________
 
 #### App screenshot:
