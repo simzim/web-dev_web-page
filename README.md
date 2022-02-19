@@ -12,7 +12,5 @@ https://simzim.github.io/web-dev_web-page/
 _______________________________________________________________________________________
 
 #### App screenshot:
-screencapture-rolling-scopes-school-github-io-simzim-JSFELT-webdev-2021-04-18-23_16_22
 
-
-
+![webdev-latest-version](https://user-images.githubusercontent.com/38910059/154817726-08c3ad5c-9460-4918-b5f1-b87424b4c48e.jpg)
