@@ -1,7 +1,7 @@
 # webdev-website
 only html + css (not responsive)
 
-#### The task was done for RS school courses
+#### The task was done for RS school courses < JavaScript/Front-end >
 _______________________________________________________________________________________
 
 Task description
